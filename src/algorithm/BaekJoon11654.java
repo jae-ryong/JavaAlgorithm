@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-// ¹éÁØ 11654¹ø
+// ë°±ì¤€ 11654ë²ˆ
 public class BaekJoon11654 {
 
 	public static void main(String[] args) {

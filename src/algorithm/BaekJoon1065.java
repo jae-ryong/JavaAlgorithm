@@ -1,5 +1,5 @@
 package algorithm;
-//¹éÁØ 1065¹ø ÇÑ¼ö
+//ë°±ì¤€ 1065ë²ˆ
 
 import java.util.Scanner;
 
